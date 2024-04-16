@@ -15,7 +15,8 @@ cd DS-M4-Cluster_Hadoop
 sudo ./start-container.sh
 ```
 
-**output:**
+**El output que vamos a obtener es el siguiente:
+Aca ya estamnos dentro del hadoop-master**
 
 ```
 start hadoop-master container...
