@@ -5,9 +5,14 @@ sudo docker network create --driver=bridge hadoop
 ```
 
 ##### 2. Inicializar el cluster. "./" para ejecutar 
-
 ```
 cd DS-M4-Cluster_Hadoop
+sudo ./start-container.sh
+```
+
+##### 2. Ejecutamos el archivo start-container.sh que esta aca en el repositorio. Con el comando de aqui abajo ya ejecutamos todo ese script. "./" para ejecutar 
+
+```
 sudo ./start-container.sh
 ```
 
