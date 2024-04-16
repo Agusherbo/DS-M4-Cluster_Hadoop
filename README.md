@@ -28,7 +28,7 @@ root@hadoop-master:~#
 ./start-hadoop.sh
 ```
 
-##### 4. Un archivo txt de un libro
+##### 4. Con el comando wget traigo un archivo txt de un libro
 
 ```
 wget https://raw.githubusercontent.com/uracilo/testdata/master/odisea.txt
