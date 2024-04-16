@@ -1,3 +1,5 @@
+## Levantamos contenedore con .sh que no es lo mas comun. Se suele hacer con archivos .yml con docker compose
+
 ##### 1. Crear red para el cluster de hadoop
 
 ```
