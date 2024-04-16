@@ -27,7 +27,7 @@ root@hadoop-master:~#
 - Iniciar con 2  esclavos y un maestro
 - Entraremos al contenedor master
 
-##### 3. Iniciar hadoop
+##### 3. Iniciar hadoop - generamos la conexion con hadoop - inicializa hadoop
 
 ```
 ./start-hadoop.sh
@@ -72,7 +72,7 @@ hdfs dfs -put input
 ##### 9. Revisar nuestro input directorio en HADOOP
 
 ```
-hdfs dfs –ls  input
+hdfs dfs –ls input
 ```
 
 ##### 10. Leer las primeras lineas de nuestro archivo en HADOOP
